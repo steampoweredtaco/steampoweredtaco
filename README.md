@@ -1,4 +1,9 @@
-### Hi there 👋
+### About Me
+I'm a software developer of 15+ years curious and contributing to all things code related.
+
+This is my 'online' persona github account which has turned into my account where I do most of contributions on nowadays.
+
+I professionally a C++ developer most of my career with some Java and Pyhton thrown in there.  My personal coding preference and love right now is for go.
 
 <!--
 **steampoweredtaco/steampoweredtaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
